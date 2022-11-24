@@ -1,5 +1,5 @@
-## Weather Application designed with Django
+## Weather Web Application using Django
 #Jayanth 
-#Harsh Harode
+#Harsh 
 #Jayant 
 #Shubhendra
