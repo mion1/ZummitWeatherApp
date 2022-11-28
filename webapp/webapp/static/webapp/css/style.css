@@ -6,14 +6,15 @@ body{
     margin: 0;
     background: #222;
     font-family: 'Open Sans', sans-serif;
-    background-image: url("bgimgs/weatherback.jpg");
+    background-image: url('../city.jpg');
     background-size: cover;
     font-size: 120%;
 }
 
 .card{
     background: rgb(16, 97, 105);
-    background-image: url("bgimgs/snow.jpg");
+    {% load static %}
+    background-image: url("{% static 'webapp/snow.jpg' %}");
     background-size: auto;
     opacity: 0.9;
     color: white;
