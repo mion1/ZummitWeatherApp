@@ -1,2 +1,5 @@
-## Weather Application designed with Django
-#Jayanth #Harsh #Jayant #Shubhendra
+## Weather Web Application using Django
+#Jayanth 
+#Harsh 
+#Jayant 
+#Shubhendra
